@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ぎゅっと。",
+  "base_artist": "もさを。",
+  "createdAt": "2026-01-06T09:49:25.151518Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ぎゅっと。",
+      "artist": "もさを。",
+      "has_synced": false,
+      "path": "select/01_ぎゅっと。_もさを。.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ぎゅっと。 - Gyutto",
+      "artist": "Mosawo",
+      "has_synced": true,
+      "path": "select/02_ぎゅっと。_-_Gyutto_Mosawo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ぎゅっと。",
+      "artist": "もさを。",
+      "has_synced": true,
+      "path": "select/03_ぎゅっと。_もさを。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ぎゅっと。 - Gyutto",
+      "artist": "Mosawo",
+      "has_synced": true,
+      "path": "select/04_ぎゅっと。_-_Gyutto_Mosawo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ぎゅっと。 (Piano ver.)",
+      "artist": "もさを。",
+      "has_synced": true,
+      "path": "select/05_ぎゅっと。_(Piano_ver.)_もさを。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ぎゅっと。 - Gyutto",
+      "artist": "Mosawo",
+      "has_synced": true,
+      "path": "select/06_ぎゅっと。_-_Gyutto_Mosawo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ぎゅっと。",
+      "artist": "Mosawo",
+      "has_synced": true,
+      "path": "select/07_ぎゅっと。_Mosawo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ぎゅっと。",
+      "artist": "Lefty Hand Cream",
+      "has_synced": true,
+      "path": "select/08_ぎゅっと。_Lefty_Hand_Cream.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ぎゅっと",
+      "artist": "timelesz",
+      "has_synced": true,
+      "path": "select/09_ぎゅっと_timelesz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぎゅっと。",
+      "artist": "もさを。",
+      "has_synced": false,
+      "path": "select/pl_01_ぎゅっと。_もさを。.txt"
+    }
+  ]
+}
